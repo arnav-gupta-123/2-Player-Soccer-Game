@@ -370,6 +370,3 @@ public class Sketch extends PApplet {
     soccerball.resize((int)ballSize, (int)ballSize);
   }
 }
-//https://discourse.processing.org/t/solved-question-about-flipping-images/7391/2 
-
-//https://stackoverflow.com/questions/54575628/is-there-a-way-to-make-circular-hitboxes-in-java
